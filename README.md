@@ -11,6 +11,7 @@ Bu projede ürün&arızalı ürün , müsteri , personel , marka gibi nesnelerin
  4. Fluent Validation
  5. Ninject
  6. DevExpress 
+ 7. Triggers
 
 ## Projeden Görüntüler
 
